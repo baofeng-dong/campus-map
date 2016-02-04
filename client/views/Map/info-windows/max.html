@@ -1,0 +1,16 @@
+﻿<div class="popup-content">
+    <div>
+        <h3>{{feature.getProperty('STATION')}}</h3>
+    </div>
+
+    <div>
+        <div>
+            <a target="_blank" href="{{feature.getProperty('URL')}}">Arrival Time</a>
+        </div>
+    </div>
+    <br/>
+    <button type="button" class="btn btn-metro btn-primary" ng-click="togglePopupShare($event)" ng-if="false">
+        <img src="/map-icons/ic_share_24px.svg" />
+    </button>
+</div>
+
