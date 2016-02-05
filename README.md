@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# psu-campus-map
-PSU Campus Map
+# Portland State University Campus Webmap
 
 v1.9
 ====
@@ -47,7 +45,3 @@ Startup a server with a watch on files in the client directory
 After a successful build, a dist folder should be generated, copy the items inside
 the dist folder to replace files under htdocs on the server
 
-=======
-# campus-map
-Portland State University campus webmap
->>>>>>> e09b0fc4c7d15fcdec1f7b2c4fe2efaf471f8616
