@@ -23,10 +23,10 @@ v1.9
 # How to build
 
 Clone repository from Github
-* `git clone https://github.com/TheGartrellGroup/psu-campus-map`
+* `git clone https://github.com/miketung168/campus-map`
 
 Navigate into new directory
-* `cd psu-campus-map`
+* `cd campus-map`
 
 Install node dependencies (for the compilation process) (reads package.json file)
 * `npm install`
