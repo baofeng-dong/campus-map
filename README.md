@@ -23,7 +23,7 @@ v1.9
 # How to build
 
 Clone repository from Github
-* `git clone https://github.com/miketung168/campus-map`
+* `git clone https://github.com/baofeng-dong/campus-map`
 
 Navigate into new directory
 * `cd campus-map`
